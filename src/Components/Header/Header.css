@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+}
+
+.right-side button{
+    background-color: black;
+    color: azure;
+    pad: 10px 10px;
+}

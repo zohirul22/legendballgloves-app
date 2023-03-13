@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "title": "Custom Number (+$7)",
+        "description": "Enter number and change color on the next step."
+    },
+    {
+        "id": "2",
+        "title": "Jumbo Number (+$7)",
+        "description": "Enter number and change color on the next step."
+    },
+    {
+        "id": "3",
+        "title": "Graphic (+$7)",
+        "description": "Change graphic and color on the next steps."
+    },
+    {
+        "id": "4",
+        "title": "Stamped Flag (+$7)",
+        "description": "Choose a flag on the next step."
+    }
+]
